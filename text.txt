@@ -1,0 +1,3 @@
+Read Text From File Example.
+1.Line number one Example 
+2.Line number two example.
